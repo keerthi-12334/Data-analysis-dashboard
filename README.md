@@ -19,10 +19,10 @@ Vrinda store wants to create an annual sales report for 2022.So that vrinda can 
 - -Dashboard interaction <a href="https://github.com/keerthi-12334/Data-analysis-dashboard/blob/main/vrinda%20store%20dashboard%20image.png">View dashboard</a>
 
 ## process
--verify data for any missing values and anamolies, and sort out the data.
--made sure data is consistent and clean with respect to data type, data format and values used.
--created pivot tables according to the questions asked.
--merge all pivot tables into our dashboard and apply slicer to make dynamic
+- verify data for any missing values and anamolies, and sort out the data.
+- made sure data is consistent and clean with respect to data type, data format and values used.
+- created pivot tables according to the questions asked.
+- merge all pivot tables into our dashboard and apply slicer to make dynamic
 
 
 
